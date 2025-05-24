@@ -1,7 +1,5 @@
-# 🎓 Predicting Student Performance: Lifestyle and Learning
-**Capstone Project – TEECE 2**
-
-![Student Icon](icon.png)
+**TEECE 2 Capstone Project**
+# 🎓 Lifestyle and Learning - Predicting Student Performance
 
 ## 👨‍👩‍👧‍👦 Group Members
 - **Bolinas**, Denisse Roxanne H.  
